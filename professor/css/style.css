@@ -1,0 +1,70 @@
+/*propriedades do corpo da pagina*/
+
+
+
+/*propriedades das imagens do sistema*/
+
+#logo{
+	width: 450px;
+	height: 100px;
+	margin: auto;
+	
+}
+#logo img{
+	width: 450px;
+	height: 100px;
+	margin: auto;
+}
+
+/*propriedades login*/
+
+#login{
+	background:#17a2b8;
+	width: 450px;
+	height: 300px;
+	margin:-35px auto;
+	border: 1px solid #17a2b8;
+
+	-moz-border-radius:5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px; 
+}
+#login table{
+	font: 15px Arial, Helvetica, sans-serif;
+	color: #666;
+	margin: 40px 10px 10px 10px;
+}
+#login h1{
+	font: 15px Arial, Helvetica, sans-serif;
+	color: #000;
+	margin: 10px 0 0 0;
+	font-weight: bold;  
+}
+#login input{
+	font: 15px Arial, Helvetica, sans-serif;
+	color: #f60;
+	padding: 10px;
+	width: 400px;
+	border: 1px solid #17a2b8;
+
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+/*propriedades echo login*/
+
+#login h2{
+	font: 15px Arial, Helvetica, sans-serif;
+	color: #fff;
+	background-color: #900;
+	text-align: center;
+	padding: 5px;
+	float: left;
+	margin: 28px 0 10px 10px;
+	border: 1px solid #ccc;
+
+	-moz-border-radius: 5px;
+	-webkit-border-radius:5px;
+	border-radius: 5px;
+}
